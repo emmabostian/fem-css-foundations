@@ -1,10 +1,11 @@
 # fem-css-foundations
 
-
 # Sources
+
 - Flat Icon
 
 ## Photos
+
 - https://unsplash.com/photos/WYE2UhXsU1Y
 - https://unsplash.com/photos/iEEBWgY_6lA
 - https://unsplash.com/photos/mpDV4xaFP8c
@@ -13,4 +14,19 @@
 - https://unsplash.com/photos/p5BoBF0XJUA
 
 ## Fonts
+
 https://fonts.google.com/specimen/Inter?query=inter
+
+# VSCode Settings
+
+```
+{
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    }
+}
+```
