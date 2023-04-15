@@ -11,3 +11,6 @@
 - https://unsplash.com/photos/SJvDxw0azqw
 - https://unsplash.com/photos/QJEVpydulGs
 - https://unsplash.com/photos/p5BoBF0XJUA
+
+## Fonts
+https://fonts.google.com/specimen/Inter?query=inter
