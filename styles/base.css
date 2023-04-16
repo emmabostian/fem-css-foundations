@@ -115,7 +115,7 @@ p {
   display: none;
 }
 
-.menu path {
+.home .menu path {
   fill: var(--color-text-on-primary);
 }
 
@@ -123,8 +123,13 @@ p {
   display: none;
 }
 
-.close path {
+.home .close path {
   fill: var(--color-text-on-primary);
+}
+
+.close,
+.menu {
+  cursor: pointer;
 }
 
 @media (max-width: 1220px) {
@@ -149,12 +154,8 @@ p {
     display: none;
   }
 
-  .close {
+  .close--show {
     display: block;
-  }
-
-  .close--hide {
-    display: none;
   }
 
   .nav {
@@ -165,6 +166,7 @@ p {
     top: 60px;
     left: -100%;
     padding-top: 60px;
+    transition: left 0.2s linear;
   }
 
   .nav--visible {
