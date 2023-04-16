@@ -8,3 +8,19 @@
 .home .main__sub-heading {
   font-size: 40px;
 }
+
+@media (max-width: 1220px) {
+  .home .main__heading {
+    font-size: 70px;
+  }
+}
+
+@media (max-width: 590px) {
+  .home .main__heading {
+    font-size: 40px;
+  }
+
+  .home .main__sub-heading {
+    font-size: 24px;
+  }
+}
