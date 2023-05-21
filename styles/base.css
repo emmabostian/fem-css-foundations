@@ -111,6 +111,10 @@ p {
   color: var(--color-button-secondary-text);
 }
 
+.button__icon {
+  vertical-align: middle;
+}
+
 .menu {
   display: none;
 }
