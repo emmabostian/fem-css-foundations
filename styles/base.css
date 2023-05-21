@@ -97,3 +97,7 @@ body {
   background-color: var(--color-button-secondary-bg);
   color: var(--color-button-secondary-text);
 }
+
+.button__icon {
+  vertical-align: middle;
+}
