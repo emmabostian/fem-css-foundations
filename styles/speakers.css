@@ -1,6 +1,6 @@
 @import "./base.css";
 
-.shopping-cart-icon g path {
+.shopping-cart--primary g path {
   fill: var(--color-primary);
 }
 
@@ -42,6 +42,7 @@
 
 .speaker__bio {
   font-size: 20px;
+  margin-bottom: 32px;
 }
 
 .speaker__company,
@@ -51,7 +52,6 @@
 
 @media (max-width: 1000px) {
   .speakers__wrapper {
-    display: grid;
     grid-template-columns: 1fr;
   }
 }
