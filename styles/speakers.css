@@ -1,6 +1,6 @@
 @import "./base.css";
 
-.shopping-cart--primary g path {
+.shopping-cart-icon--primary g path {
   fill: var(--color-primary);
 }
 
@@ -56,7 +56,7 @@
 }
 
 @media (max-width: 840px) {
-  .body--secondary .nav__list-item {
-    color: var(--color-text-on-primary);
+  .nav {
+    background-color: var(--color-text-on-primary);
   }
 }
