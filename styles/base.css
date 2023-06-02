@@ -98,7 +98,7 @@ p {
 }
 
 .button:not(button:last-of-type) {
-  margin-right: 20px;
+  margin-inline-end: 20px;
 }
 
 .button--primary {
