@@ -150,6 +150,10 @@ p {
 }
 
 @media (max-width: 840px) {
+  .body--no-scroll {
+    overflow: hidden;
+  }
+
   .menu {
     display: block;
   }
