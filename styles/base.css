@@ -73,7 +73,7 @@ p {
 }
 
 .nav__list-item {
-  margin-right: 36px;
+  margin-inline-end: 36px;
   font-size: 20px;
 }
 
