@@ -11,6 +11,9 @@ There are seven chapters to this course. You can find the slides for each chapte
 6. [Responsive Layout](https://www.canva.com/design/DAFiZl_lCw0/Jv-d1Iu3aT0tHA1rxrlmGA/edit?utm_content=DAFiZl_lCw0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 7. [Wrap Up](https://www.canva.com/design/DAFkqxyyPn0/Dz_0tKMdv-8h30LFkTunZQ/edit?utm_content=DAFkqxyyPn0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
+You can view the design files for our project website [here](https://www.figma.com/file/LEzNgBz63KLExeHNUyLCwH/FEM-CSS?type=design&node-id=0-1).
+![Figma showing project](./readme-images/figma.png)
+
 To use this repository, complete the following steps:
 1. Fork this repository
 ![Create a fork from this repo by clicking the fork button](./readme-images/fork.png)
