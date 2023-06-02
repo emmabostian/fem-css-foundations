@@ -1,6 +1,6 @@
 @import "./base.css";
 
-.shopping-cart-icon g path {
+.shopping-cart--primary g path {
   fill: var(--color-primary);
 }
 
@@ -51,7 +51,6 @@
 
 @media (max-width: 1000px) {
   .speakers__wrapper {
-    display: grid;
     grid-template-columns: 1fr;
   }
 }
