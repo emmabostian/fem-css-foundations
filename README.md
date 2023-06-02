@@ -34,9 +34,9 @@ Optionally you can use [GitHub Desktop](https://desktop.github.com/) if you pref
 main
  |_ foundation
     |_header
-		|_ home
-			|_ speakers
-                |_ responsive-layout
+	|_ home
+	  |_ speakers
+            |_ responsive-layout
 ```
 To check out a new branch run `git checkout [branch-name]` (i.e. `git checkout home`)
 
