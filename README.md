@@ -53,6 +53,7 @@ Below are the visual settings I use in my code editor.
 ![Live Server](./readme-images/live-server.png)
 - **Prettier**:Formats our code when we save our files.
 ![Prettier](./readme-images/prettier.png)
+- **Color Highlight**: Styles CSS colors.
 ![Color Highlight](./readme-images/color-highlight.png)
 
 To get Prettier to work properly I had to add a few configurations in my `settings.json` file. To open this file press `command + p` on Mac, and enter `Preferences: Open Workplace Settings (JSON)`. Enter the following in the `settings.json` file and save.
