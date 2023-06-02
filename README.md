@@ -1,14 +1,15 @@
 # Frontend Masters CSS Foundations
+Welcome to Frontend Masters CSS Foundations! You can find the course information [here](https://frontendmasters.com/workshops/css-foundations/).
 
 # How To Follow Along
 There are seven chapters to this course. You can find the slides for each chapter below.
-1. [Introduction]()
-2. [Foundation]()
-3. [Header]()
-4. [Home]()
-5. [Speakers]()
-6. [Responsive Layout]()
-7. [Wrap Up]()
+1. [Introduction](https://www.canva.com/design/DAFghYPw8XE/H5EI4SQBmto-AMZY3lTFlQ/edit?utm_content=DAFghYPw8XE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+2. [Foundation](https://www.canva.com/design/DAFgtiBCGlU/VfPruNY7keHZc0kYY3EW2w/edit?utm_content=DAFgtiBCGlU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+3. [Header](https://www.canva.com/design/DAFg530J10U/yixNmSLsJK3ed6nW0MHRGw/edit?utm_content=DAFg530J10U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+4. [Home](https://www.canva.com/design/DAFiZoqdHqA/MlTAfqGejFEynXlEMZAL-Q/edit?utm_content=DAFiZoqdHqA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+5. [Speakers](https://www.canva.com/design/DAFiZmzQc1s/i7fpUWL0Bp5cjxGJ5blWKg/edit?utm_content=DAFiZmzQc1s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+6. [Responsive Layout](https://www.canva.com/design/DAFiZl_lCw0/Jv-d1Iu3aT0tHA1rxrlmGA/edit?utm_content=DAFiZl_lCw0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+7. [Wrap Up](https://www.canva.com/design/DAFkqxyyPn0/Dz_0tKMdv-8h30LFkTunZQ/edit?utm_content=DAFkqxyyPn0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 To use this repository, complete the following steps:
 1. Fork this repository
@@ -52,6 +53,7 @@ Below are the visual settings I use in my code editor.
 ![Live Server](./readme-images/live-server.png)
 - **Prettier**:Formats our code when we save our files.
 ![Prettier](./readme-images/prettier.png)
+![Color Highlight](./readme-images/color-highlight.png)
 
 To get Prettier to work properly I had to add a few configurations in my `settings.json` file. To open this file press `command + p` on Mac, and enter `Preferences: Open Workplace Settings (JSON)`. Enter the following in the `settings.json` file and save.
 
