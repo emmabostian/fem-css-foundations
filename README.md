@@ -3,13 +3,13 @@ Welcome to Frontend Masters CSS Foundations! You can find the course information
 
 # How To Follow Along
 There are seven chapters to this course. You can find the slides for each chapter below.
-1. [Introduction](https://www.canva.com/design/DAFghYPw8XE/H5EI4SQBmto-AMZY3lTFlQ/edit?utm_content=DAFghYPw8XE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-2. [Foundation](https://www.canva.com/design/DAFgtiBCGlU/VfPruNY7keHZc0kYY3EW2w/edit?utm_content=DAFgtiBCGlU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-3. [Header](https://www.canva.com/design/DAFg530J10U/yixNmSLsJK3ed6nW0MHRGw/edit?utm_content=DAFg530J10U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-4. [Home](https://www.canva.com/design/DAFiZoqdHqA/MlTAfqGejFEynXlEMZAL-Q/edit?utm_content=DAFiZoqdHqA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-5. [Speakers](https://www.canva.com/design/DAFiZmzQc1s/i7fpUWL0Bp5cjxGJ5blWKg/edit?utm_content=DAFiZmzQc1s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-6. [Responsive Layout](https://www.canva.com/design/DAFiZl_lCw0/Jv-d1Iu3aT0tHA1rxrlmGA/edit?utm_content=DAFiZl_lCw0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-7. [Wrap Up](https://www.canva.com/design/DAFkqxyyPn0/Dz_0tKMdv-8h30LFkTunZQ/edit?utm_content=DAFkqxyyPn0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+1. [Introduction](https://www.canva.com/design/DAFk_lOWyQM/u7_uMrdicDOOdzj3N6HOzQ/edit?utm_content=DAFk_lOWyQM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+2. [Foundation](https://www.canva.com/design/DAFlCSDDgpQ/SDXgAIa1OkXWjY8oBMKrRg/edit?utm_content=DAFlCSDDgpQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+3. [Header](https://www.canva.com/design/DAFlCeLitYw/jhPF7rA3OuESMVLFzRV60w/edit?utm_content=DAFlCeLitYw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+4. [Home](https://www.canva.com/design/DAFlCcI_Gns/DvwUTgPnUk-V-TSJEBMNqQ/edit?utm_content=DAFlCcI_Gns&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+5. [Speakers](https://www.canva.com/design/DAFlCcF86Ho/QZYO-9LPcspRNa5IxzvOqw/edit?utm_content=DAFlCcF86Ho&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+6. [Responsive Layout](https://www.canva.com/design/DAFlCbiJBRQ/mIVsezoFbEAWF85IEXZXgA/edit?utm_content=DAFlCbiJBRQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+7. [Wrap Up](https://www.canva.com/design/DAFlCcp0Dy0/d9hj1Nr6OnWcyc4Ma_6n0A/edit?utm_content=DAFlCcp0Dy0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 You can view the design files for our project website [here](https://www.figma.com/file/LEzNgBz63KLExeHNUyLCwH/FEM-CSS?type=design&node-id=0-1).
 ![Figma showing project](./readme-images/figma.png)
