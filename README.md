@@ -1,15 +1,17 @@
+[![Frontend Masters](https://static.frontendmasters.com/assets/brand/logos/full.png)][fem]
+
 # Frontend Masters CSS Foundations
-Welcome to Frontend Masters CSS Foundations! You can find the course information [here](https://frontendmasters.com/workshops/css-foundations/).
+Welcome to Frontend Masters CSS Foundations! You can find the course information [here][course].
 
 # How To Follow Along
 There are seven chapters to this course. You can find the slides for each chapter below.
-1. [Introduction](https://www.canva.com/design/DAFk_lOWyQM/u7_uMrdicDOOdzj3N6HOzQ/edit?utm_content=DAFk_lOWyQM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-2. [Foundation](https://www.canva.com/design/DAFlCSDDgpQ/SDXgAIa1OkXWjY8oBMKrRg/edit?utm_content=DAFlCSDDgpQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-3. [Header](https://www.canva.com/design/DAFlCeLitYw/jhPF7rA3OuESMVLFzRV60w/edit?utm_content=DAFlCeLitYw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-4. [Home](https://www.canva.com/design/DAFlCcI_Gns/DvwUTgPnUk-V-TSJEBMNqQ/edit?utm_content=DAFlCcI_Gns&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-5. [Speakers](https://www.canva.com/design/DAFlCcF86Ho/QZYO-9LPcspRNa5IxzvOqw/edit?utm_content=DAFlCcF86Ho&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-6. [Responsive Layout](https://www.canva.com/design/DAFlCbiJBRQ/mIVsezoFbEAWF85IEXZXgA/edit?utm_content=DAFlCbiJBRQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-7. [Wrap Up](https://www.canva.com/design/DAFlCcp0Dy0/d9hj1Nr6OnWcyc4Ma_6n0A/edit?utm_content=DAFlCcp0Dy0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+1. [Introduction](https://static.frontendmasters.com/assets/courses/2023-08-30-css-foundations/css-foundations-introduction.pdf)
+2. [Foundation](https://static.frontendmasters.com/assets/courses/2023-08-30-css-foundations/css-foundations-foundation.pdf)
+3. [Header](https://static.frontendmasters.com/assets/courses/2023-08-30-css-foundations/css-foundations-header.pdf)
+4. [Home](https://static.frontendmasters.com/assets/courses/2023-08-30-css-foundations/css-foundations-home.pdf)
+5. [Speakers](https://static.frontendmasters.com/assets/courses/2023-08-30-css-foundations/css-foundations-speakers.pdf)
+6. [Responsive Layout](https://static.frontendmasters.com/assets/courses/2023-08-30-css-foundations/css-foundations-responsive-layout.pdf)
+7. [Wrap Up](https://static.frontendmasters.com/assets/courses/2023-08-30-css-foundations/css-foundations-wrap-up.pdf)
 
 You can view the design files for our project website [here](https://www.figma.com/file/LEzNgBz63KLExeHNUyLCwH/FEM-CSS?type=design&node-id=0-1).
 ![Figma showing project](./readme-images/figma.png)
@@ -83,3 +85,6 @@ To get Prettier to work properly I had to add a few configurations in my `settin
 - https://unsplash.com/photos/SJvDxw0azqw
 - https://unsplash.com/photos/QJEVpydulGs
 - https://unsplash.com/photos/p5BoBF0XJUA
+
+[fem]: https://frontendmasters.com
+[course]: https://frontendmasters.com/courses/css-foundations/
