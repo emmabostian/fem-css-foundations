@@ -1,0 +1,54 @@
+@import url(./base.css);
+.shopping-cart-icon-primary g path{
+    fill:var(--color-primary);
+}
+.speakers .main-title{
+    font-size: 98px;
+}
+.speakers-wrapper{
+    display:grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-template-rows: repeat(5,1fr);
+    grid-column-gap :200px;
+    grid-row-gap: 120px;
+
+}
+.speaker-wrapper{
+    max-width: 460px;
+}
+.Speaker-image{
+    width: 310px;
+    height: 310px;
+    object-fit: cover;
+    object-position: top;
+    margin-bottom: 36px;
+}
+.speaker-name{
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+.company{
+    font-size: 24px;
+    margin-bottom: 32px;
+}
+
+
+.Company-bio{
+    font-size: 20px;
+
+}
+
+.Company-bio,.company{
+    color:var(--color-text-on-secondary);
+}
+@media(width<900px){
+    .speakers-wrapper{
+        display:grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: repeat(5,1fr);
+        grid-column-gap :200px;
+        grid-row-gap: 120px;
+    
+    }
+
+}
