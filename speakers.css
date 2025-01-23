@@ -1,0 +1,99 @@
+@import "/fem-css-foundations/base.css";
+
+.shop-icon-primary--speakers g path {
+  fill: var(--primary-color);
+}
+
+.speakers-main__title {
+  font-size: 98px;
+}
+
+.speakers-main {
+  margin: 0 150px;
+}
+.speaker-info {
+  max-width: 400px;
+}
+.speakers-grid-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(4, 1fr);
+  grid-column-gap: 200px;
+  grid-row-gap: 120px;
+}
+
+.speaker-name {
+  font-size: 32px;
+  margin-top: 36px;
+}
+
+.company-name {
+  margin-top: 20px;
+  font-size: 24px;
+  color: black;
+}
+
+.speaker-desc {
+  margin-top: 32px;
+  color: black;
+  max-width: 350px;
+}
+
+.speaker-image {
+  width: 310px;
+  height: 310px;
+  object-fit: cover;
+}
+
+.speaker-image-top {
+  object-position: top;
+}
+
+@media (width < 1000px) {
+  .speakers-grid-container {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 840px) {
+  .menu {
+    display: block;
+  }
+  .nav {
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    background: white;
+    top: 60px;
+    left: -100%;
+    padding-top: 60px;
+    transition: left 0.2s linear;
+  }
+  .body--no-scroll {
+    overflow: hidden;
+  }
+  .close--show {
+    display: block;
+  }
+  .menu--hide {
+    display: none;
+  }
+  .nav--visible {
+    left: 0;
+  }
+  .nav__list {
+    flex-direction: column;
+    justify-content: space-around;
+    height: 80%;
+  }
+  .nav__list-item {
+    font-size: 60pxpx;
+    font-weight: bold;
+  }
+
+  .header {
+    grid-template-columns: 33px 1fr 34px;
+    align-items: center;
+    justify-items: center;
+  }
+}

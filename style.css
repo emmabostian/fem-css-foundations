@@ -1,0 +1,86 @@
+@import "/fem-css-foundations/base.css";
+
+.main {
+  padding-left: 150px;
+}
+
+.home .main__heading {
+  font-size: 128px;
+  font-weight: bold;
+}
+
+.home .main__subheading {
+  font-size: 40px;
+}
+
+.button-container {
+  display: flex;
+  align-items: center;
+  margin-top: 100px;
+}
+
+.home .close path {
+  fill: white;
+}
+
+@media (max-width: 840px) {
+  .body--no-scroll {
+    overflow: hidden;
+  }
+  .menu {
+    display: block;
+  }
+  .nav {
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    background: var(--primary-color);
+    top: 60px;
+    left: -100%;
+    padding-top: 60px;
+    transition: left 0.2s linear;
+  }
+  .close--show {
+    display: block;
+  }
+  .menu--hide {
+    display: none;
+  }
+  .nav--visible {
+    left: 0;
+  }
+  .nav__list {
+    flex-direction: column;
+    justify-content: space-around;
+    height: 80%;
+  }
+  .nav__list-item {
+    font-size: 60pxpx;
+    font-weight: bold;
+  }
+
+  .header {
+    grid-template-columns: 33px 1fr 34px;
+    align-items: center;
+    justify-items: center;
+  }
+}
+
+@media (max-width: 1220px) {
+  .home .main__heading {
+    font-size: 70px;
+  }
+}
+
+@media (max-width: 590px) {
+  .home .main__heading {
+    font-size: 40px;
+  }
+  .home .main__subheading {
+    font-size: 24px;
+  }
+}
+
+.home .menu path {
+  fill: var(--primary-color-on-text);
+}
