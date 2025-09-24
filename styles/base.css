@@ -1,0 +1,7 @@
+:root {
+  --color-primary: #ff7b54;
+  --color-text-on-primary: #fff;
+
+  --font-family-regular: Inter;
+  --font-family-bold: InterBold;
+}
