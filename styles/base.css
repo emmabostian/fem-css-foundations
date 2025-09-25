@@ -1,3 +1,5 @@
+/* FONTS */
+
 @font-face {
   font-family: Inter;
   src: url(../fonts/Inter_24pt-Regular.ttf);
@@ -8,13 +10,23 @@
   src: url(../fonts/Inter_24pt-Bold.ttf);
 }
 
+/* VARIABLES */
+
 :root {
   --color-primary: #ff7b54;
   --color-text-on-primary: #fff;
+  --color-button-border: var(--color-text-on-primary);
+
+  --color-button-primary-bg: var(--color-text-on-primary);
+  --color-button-primary-text: var(--color-primary);
+  --color-button-secondary-bg: var(--color-primary);
+  --color-button-secondary-text: var(--color-text-on-primary);
 
   --font-family-regular: Inter;
   --font-family-bold: InterBold;
 }
+
+/* BASE */
 
 body {
   background-color: var(--color-primary);
@@ -25,6 +37,10 @@ body {
 a {
   color: inherit;
   text-decoration: none;
+}
+
+p {
+  margin: 0;
 }
 
 /* HAEDER */
@@ -55,4 +71,43 @@ a {
 
 .nav__list-item {
   margin-inline-end: 36px;
+}
+
+/* BUTTONS */
+
+.button-container {
+  display: flex;
+  margin-top: 100px;
+}
+
+.button {
+  font-size: 32px;
+  padding: 0 64px;
+  block-size: 100px;
+  border: 4px solid var(--color-button-border);
+  cursor: pointer;
+  transition: outline 0.2s linear;
+}
+
+.button:hover,
+.button:focus {
+  outline: 2px solid var(--color-text-on-primary);
+}
+
+.button:not(button:last-of-type) {
+  margin-inline-end: 20px;
+}
+
+.button--primary {
+  background-color: var(--color-button-primary-bg);
+  color: var(--color-button-primary-text);
+}
+
+.button--secondary {
+  background-color: var(--color-button-secondary-bg);
+  color: var(--color-button-secondary-text);
+}
+
+.button__icon {
+  vertical-align: middle;
 }
